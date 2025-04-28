@@ -1,0 +1,38 @@
+ Decision-Making Points
+Segment Customers by Channel and Region
+→ Create specialized marketing strategies based on customer type and location.
+
+Focus on High-Spending Categories
+→ Allocate more resources and campaigns toward categories with higher average spending.
+
+Bundle Highly Correlated Products
+→ Design combo offers (e.g., Grocery + Detergents) where strong correlations exist.
+
+Target Low-Spending Segments
+→ Use discounts and promotions to boost spending among low or zero-spend customers.
+
+Prioritize Loyalty Programs for High Spenders
+→ Identify top 10-20% of customers by total spend and design reward schemes.
+
+Handle Outliers Separately
+→ Outliers might need customized offers or separate analysis (VIP handling).
+
+Simplify Reporting via Renamed Columns
+→ Use standardized, clean column names for easier team understanding and reporting.
+
+Detect Regional Preferences
+→ Based on regional averages, promote regionally popular products more aggressively.
+
+Predictive Modeling Readiness
+→ Dataset is clean and correlated — good foundation to build spending prediction models.
+
+Inventory Planning
+→ Stock products based on overall average demand and correlation trends to reduce waste.
+
+
+
+
+
+
+
+
